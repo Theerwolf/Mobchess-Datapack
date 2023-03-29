@@ -1,0 +1,12 @@
+{
+ "type": "minecraft:arena_type",
+ "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+       "biome": "minecraft:the_void",
+       "layers": [
+        {"block":"minecraft:air","height":1}],
+       "structure_overrides": "minecraft:desert_pyramids"
+    }
+ }
+}
